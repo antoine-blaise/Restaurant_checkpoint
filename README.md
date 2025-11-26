@@ -1,1 +1,1 @@
-# Restaurant_checkpoint
+This repository contains the html and css files for a fictional restaurant.
